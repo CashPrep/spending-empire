@@ -1,0 +1,4 @@
+type,slug,name,state_abbr,avg_rent,avg_food,avg_social,avg_transport
+state,massachusetts,Massachusetts,MA,900,350,250,120
+state,california,California,CA,950,380,260,130
+state,texas,Texas,TX,650,300,200,100
